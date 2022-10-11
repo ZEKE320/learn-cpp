@@ -1,2 +1,4 @@
-day*/ex*/*
-!day*/ex*/*.cpp
+day*/exercise/*
+!day*/exercise/*.cpp
+day*/example/*
+!day*/example/*.cpp
